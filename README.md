@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=61dafb" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/bihari-chamodya-106b02297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077b5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=61dafb" alt="LinkedIn" />
   </a>
   <a href="mailto:biharichamodya@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=61dafb" alt="Email" />

@@ -67,9 +67,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=bihari-dev&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bihari-dev&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
   <img src="https://streak-stats.demolab.com/?user=bihari-dev&theme=react&hide_border=false" alt="GitHub Streak" height="180px" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bihari-dev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bihari-dev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px" />
 </p>
